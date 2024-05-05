@@ -1,0 +1,13 @@
+nltk>=3.7
+scikit-learn>=1.0.2
+torch>=1.12.0
+pandas>=1.4.3
+dill>=0.3.5.1
+gensim>=4.2.0
+scipy>=1.8.1
+numpy>=1.23.1
+ftfy>=6.1
+pattern>=3.6
+lxml>=4.9.1
+spacy>=3.4.1
+
